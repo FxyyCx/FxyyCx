@@ -20,13 +20,12 @@
 <a href="https://t.me/fxyycxx2" target="_blank">
 <img src=https://img.shields.io/badge/telegram-%2324292e.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>
-    <p align="center"> <img src="https://komarev.com/ghpvc/?username=FxyyCx&label=Profile%20views&color=0e75b6&style=flat" alt="FxyyCx" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=FxyyCx&label=Profile%20views&color=0e75b6&style=flat" alt="FxyyCx" /> </p>
 <br>
 <br>
 
 <h2 align="center"></h2>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=FxyyCx&label=Profile%20views&color=0e75b6&style=flat" alt="FxyyCx" /> </p>
 
 <br>
 
