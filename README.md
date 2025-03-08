@@ -34,28 +34,7 @@
   <!-- <img src="https://avatars.githubusercontent.com/u/124222684?v=4" alt="Your Profile Picture" width="200" height="200"> -->
 
   <br>
-
-  <p>👋 Hey there! I'm a <strong>student</strong> with a passion for tech things.</p>
-
-   - 👀 I’m interested in Telegram Bot, Linux, Raspberry Pi
-
-  
-  - 💻 Currently Learning **C** and Web technologies for practical skills.
-  
-  
-  - 🌀 Fun fact: I love to listen to music and watch anime/movies/series.
-</div>
-
-<p align="center">🌟 If you share any of these interests or want to collaborate, feel free to connect with me!</p>
-
-<p align="center">
-  <a href="https://t.me/FxyyCxx2"><img src="https://cdn-icons-png.flaticon.com/512/124/124034.png" alt="Social Media Icon" width="30" height="30"></a>
-  <a href="https://t.me/testimonifxyy"><img src="https://i.ibb.co/rFJv7pC/1701093278737-removebg-preview.png" alt="Website Icon" width="40" height="30"></a>
-</p>
-
     
-
-
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
