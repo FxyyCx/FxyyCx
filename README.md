@@ -118,7 +118,8 @@
 
 
 <br>
-
+<p align="center">
+  <a href="https://github.com/monxnl"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=monxnl&theme=tokyonight&layout=compact" /></a>
 
 <p align="center">
   <a href="https://github.com/FxyyCx"> <img  alt="FxyyCx's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/FxyyCx?cardType=github&theme=github-dark&preferLogin=true" />  </a>
