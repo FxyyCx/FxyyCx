@@ -137,6 +137,10 @@
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=FxyyCx&theme=redical" alt="Stats">
     </a>
 </p>
+<p align="center">
+  <a href="https://github.com/monxnl"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=monxnl&theme=tokyonight&layout=compact" /></a>
+</p>
+
 
 
 <p align="center"><a href="https://github.com/FxyyCx"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FxyyCx&theme=radical&layout=compact"></a></p> 
